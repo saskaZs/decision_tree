@@ -86,6 +86,7 @@ The algorithm stops when:
 python ml.py
 ```
 
+3. Expected output:
 ```
 Decision Tree:
 {'outlook': {'Sunny': {'humidity': {'High': 'No', 'Normal': 'Yes'}}, 
